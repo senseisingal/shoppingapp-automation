@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1752155583682,
+    "user": "test@qadojo.com",
+    "items": [
+      {
+        "id": 1,
+        "name": "QA Sneakers",
+        "price": 120
+      },
+      {
+        "id": 2,
+        "name": "Automation Runners",
+        "price": 95
+      },
+      {
+        "id": 1,
+        "name": "QA Sneakers",
+        "price": 120
+      },
+      {
+        "id": 2,
+        "name": "Automation Runners",
+        "price": 95
+      }
+    ],
+    "total": 430,
+    "date": "2025-07-10T13:53:03.682Z"
+  }
+]
